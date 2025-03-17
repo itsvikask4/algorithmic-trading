@@ -18,7 +18,7 @@ Features
  
  Installation
  	1.	Clone the repository:
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/itsvikask4/algorithmic-trading
     cd your-repo-name
 
   2.  Install dependencies:
